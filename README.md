@@ -678,7 +678,7 @@
 - [![Open-Source Software][OSS Icon]](https://github.com/jeena/FeedTheMonkey) [FeedTheMonkey](https://github.com/jeena/FeedTheMonkey/releases) - FeedTheMonkey is a desktop client for TinyTinyRSS.
 - [![Open-Source Software][OSS Icon]](https://github.com/vinszent/gnome-twitch) [GnomeTwitch](http://gnome-twitch.vinszent.com/) - Enjoy Twitch on your GNU/Linux desktop with this Twitch non-Adobe-flash client.
 - [![Open-Source Software][OSS Icon]](https://github.com/EragonJ/Kaku) [Kaku](https://github.com/EragonJ/Kaku/releases) - An opensource youtube music player for Ubuntu.
-- [![Open-Source Software][OSS Icon]](https://www.popcorn-time.to/source.html) [Popcorntime](https://www.popcorn-time.to/) - Watch torrent movies instantly.
+- [![Open-Source Software][OSS Icon]](https://https://github.com/popcorn-official/) [Popcorntime](https://popcorntime.sh/) - Watch torrent movies instantly.
 
 
 ### Office
@@ -849,6 +849,7 @@
 - [![Open-Source Software][OSS Icon]](http://git.igalia.com/meiga.git) [Meiga](http://meiga.igalia.com/) - A tool that makes possible to share selected local directories via web.
 - [![Open-Source Software][OSS Icon]](https://github.com/nextcloud) [nextCloud](https://nextcloud.com/) - an actively maintained fork of ownCloud, a suite of client-server software for creating and using file hosting services
 - [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
+- [![Open-Source Software][OSS Icon]](https://github.com/micahflee/onionshare) [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
 - [![Open-Source Software][OSS Icon]](https://github.com/owncloud) [ownCloud](https://owncloud.com/products/desktop-clients/) - The goal of ownCloud is to give you access to your files wherever you are.
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [![Open-Source Software][OSS Icon]](https://github.com/sidneys/pb-for-desktop) [PushBullet for desktop](https://sidneys.github.io/pb-for-desktop/) - The missing Desktop application for Pushbullet.
@@ -974,6 +975,7 @@
 - [![Open-Source Software][OSS Icon]](https://www.videolan.org/vlc/download-sources.html) [VLC](http://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
 ### Wiki software
+- [![Open-Source Software][OSS Icon]](https://github.com/splitbrain/dokuwiki) [DokuWiki](https://www.dokuwiki.org/dokuwiki) - A popular self-hostable wiki software with a large number of plugins
 - [![Open-Source Software][OSS Icon]](https://git.joeyh.name/git/ikiwiki.git/) [ikiwiki](https://ikiwiki.info/) - ikiwiki is a wiki compiler. It converts wiki pages into HTML pages suitable for publishing on a website. Ikiwiki stores pages and history in a revision control system such as Subversion or Git.
 - [![Open-Source Software][OSS Icon]](https://github.com/Jermolene/TiddlyDesktop) [TiddlyDesktop](https://tiddlywiki.com/#TiddlyDesktop) - A desktop app for TiddlyWiki, an open-source personal wiki written in javascript, great if you're still searching for a good note-taking (and more) app.
 - [![Open-Source Software][OSS Icon]](https://launchpad.net/zim) [Zim](http://zim-wiki.org/) - A graphical text editor used to maintain a collection of wiki pages, great for notes and documents. Stored in plain text files for easy version control.
@@ -1043,6 +1045,7 @@
 ### Console
 - [![Open-Source Software][OSS Icon]](https://github.com/ghost1227/cdm) [CDM](https://github.com/ghost1227/cdm) - A ultra-minimalistic, yet full-featured login manager written in Bash.
 - [![Open-Source Software][OSS Icon]](https://github.com/dopsi/console-tdm) [Console TDM](https://github.com/dopsi/console-tdm) - An extension for xinit written in pure Bash.
+- [![Open-Source Software][OSS Icon]](https://github.com/cylgom/ly) [Ly](https://github.com/cylgom/ly) - Ly is a lightweight, TUI (ncurses-like) display manager for Linux.
 - [![Open-Source Software][OSS Icon]](https://github.com/spanezz/nodm) [nodm](https://github.com/spanezz/nodm) - A minimalistic display manager for automatic logins.
 
 ### Graphic
